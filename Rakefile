@@ -17,7 +17,7 @@ task :default => 'spec:run'
 PROJ.name = 'restafarian'
 PROJ.authors = 'James Britt'
 PROJ.email = 'james@neurogami.com'
-PROJ.url = 'neurogami.com/code/restafarian'
+PROJ.url = 'http:// neurogami.com/code/restafarian'
 PROJ.version = Restafarian::VERSION
 # PROJ.rubyforge.name = 'restafarian'
 
