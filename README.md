@@ -1,29 +1,38 @@
-restafarian
-    by James Britt /Neurogami
-    www.neurogami.com
+Neurogami::Restafarian
+=======================
 
-== DESCRIPTION:
+by James Britt /Neurogami
+www.neurogami.com
+
+
+DESCRIPTION
+-----------
 
 A bit of Rack middleware to do REST routing
 
-== FEATURES/PROBLEMS:
+FEATURES/PROBLEMS
+-----------------
 
 * FIXME (list of features or problems)
 * too many FIXME's !
 
-== SYNOPSIS:
+SYNOPSIS
+-----------
 
   FIXME (code sample of usage)
 
-== REQUIREMENTS:
+REQUIREMENTS
+------------
 
 * FIXME (list of requirements)
 
-== INSTALL:
+INSTALL
+---------
 
 * FIXME (sudo gem install, anything else)
 
-== LICENSE:
+LICENSE
+-------
 
 (The MIT License)
 
