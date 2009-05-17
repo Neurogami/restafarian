@@ -1,6 +1,6 @@
 restafarian
-    by James Britt
-    www.jamesbritt.com 
+    by James Britt /Neurogami
+    www.neurogami.com
 
 == DESCRIPTION:
 
@@ -9,6 +9,7 @@ A bit of Rack middleware to do REST routing
 == FEATURES/PROBLEMS:
 
 * FIXME (list of features or problems)
+* too many FIXME's !
 
 == SYNOPSIS:
 
@@ -26,7 +27,7 @@ A bit of Rack middleware to do REST routing
 
 (The MIT License)
 
-Copyright (c) 2008 FIXME (different license?)
+Copyright (c) 2008 James Britt /Neurogami LLC 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
